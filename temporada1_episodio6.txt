@@ -174,7 +174,8 @@ postgres    1311  0.0  0.1 221028  9604 ?        Ss   19:11   0:00 postgres: 14/
 postgres    1312  0.0  0.0 220920  6996 ?        Ss   19:11   0:00 postgres: 14/main: background writer 
 postgres    1313  0.0  0.1 220920 11636 ?        Ss   19:11   0:00 postgres: 14/main: walwriter 
 postgres    1314  0.0  0.1 221484  9656 ?        Ss   19:11   0:00 postgres: 14/main: autovacuum launcher 
-postgres    1315  0.0  0.0  75512  6432 ?        Ss   19:11   0:00 postgres: 14/main: stats collector 
+postgres    1315  0.0  0.0  75512  6432
+ddfdfdfdfdfedf ?        Ss   19:11   0:00 postgres: 14/main: stats collector 
 postgres    1316  0.0  0.0 221348  7808 ?        Ss   19:11   0:00 postgres: 14/main: logical replication launcher 
 mysql       1327  1.3  4.9 2373384 396016 ?      Ssl  19:11   0:35 /usr/sbin/mysqld
 root        1364  0.0  0.8 1742984 69128 ?       Ssl  19:12   0:01 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
@@ -199,7 +200,6 @@ orlando     2134  0.0  0.0 309888  7624 ?        Ssl  19:13   0:00 /usr/libexec/
 orlando     2141  0.0  0.0   8692  4596 ?        S    19:13   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
 orlando     2144  0.0  0.1 162748  8112 ?        Sl   19:13   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
 orlando     2161  0.0  0.3 525124 26996 ?        Sl   19:13   0:00 csd-color
-orlando     2162  0.0  0.3 302168 25016 ?        Sl   19:13   0:00 csd-a11y-settings
 orlando     2163  0.0  0.3 228000 24596 ?        Sl   19:13   0:00 csd-clipboard
 orlando     2166  0.0  0.3 310488 28996 ?        Sl   19:13   0:00 csd-print-notifications
 orlando     2167  0.0  0.6 380464 50660 ?        Sl   19:13   0:00 csd-background
@@ -236,7 +236,6 @@ orlando     2384  0.0  0.4 315304 36308 ?        Sl   19:13   0:00 cinnamon-kill
 orlando     2419  0.0  0.3 393220 26320 ?        Ssl  19:13   0:00 /usr/libexec/evolution-source-registry
 orlando     2435  0.1  0.4 318092 39344 ?        Sl   19:13   0:04 /usr/bin/python3 /usr/bin/blueman-tray
 orlando     2437  0.0  0.0  46948  7176 ?        Ss   19:13   0:00 /usr/lib/bluetooth/obexd
-orlando     2459  0.0  0.3 1316572 31328 ?       Ssl  19:13   0:00 /usr/libexec/evolution-calendar-factory
 orlando     2484  0.0  0.3 681412 29216 ?        Ssl  19:14   0:00 /usr/libexec/evolution-addressbook-factory
 orlando     2555  0.0  0.1 315768  9132 ?        Sl   19:14   0:00 /usr/libexec/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
 lp          2761  0.0  0.0  16284  5404 ?        S    19:14   0:00 /usr/lib/cups/notifier/dbus dbus://
