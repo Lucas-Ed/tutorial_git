@@ -1,0 +1,307 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 166764 11984 ?        Ss   19:09   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    19:09   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   19:09   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   19:09   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   19:09   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   19:09   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/0:0H-events_highpri]
+root          10  0.0  0.0      0     0 ?        I<   19:09   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        S    19:09   0:00 [rcu_tasks_rude_]
+root          12  0.0  0.0      0     0 ?        S    19:09   0:00 [rcu_tasks_trace]
+root          13  0.0  0.0      0     0 ?        S    19:09   0:00 [ksoftirqd/0]
+root          14  0.0  0.0      0     0 ?        I    19:09   0:02 [rcu_sched]
+root          15  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/0]
+root          16  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/0]
+root          17  0.0  0.0      0     0 ?        I    19:09   0:02 [kworker/0:1-events]
+root          18  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/0]
+root          19  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/1]
+root          20  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/1]
+root          21  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/1]
+root          22  0.0  0.0      0     0 ?        S    19:09   0:00 [ksoftirqd/1]
+root          24  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/1:0H-events_highpri]
+root          25  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/2]
+root          26  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/2]
+root          27  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/2]
+root          28  0.0  0.0      0     0 ?        S    19:09   0:01 [ksoftirqd/2]
+root          30  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/2:0H-events_highpri]
+root          31  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/3]
+root          32  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/3]
+root          33  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/3]
+root          34  0.0  0.0      0     0 ?        S    19:09   0:00 [ksoftirqd/3]
+root          36  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/3:0H-events_highpri]
+root          37  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/4]
+root          38  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/4]
+root          39  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/4]
+root          40  0.0  0.0      0     0 ?        S    19:09   0:00 [ksoftirqd/4]
+root          42  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/4:0H-events_highpri]
+root          43  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/5]
+root          44  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/5]
+root          45  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/5]
+root          46  0.0  0.0      0     0 ?        S    19:09   0:00 [ksoftirqd/5]
+root          48  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/5:0H-events_highpri]
+root          49  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/6]
+root          50  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/6]
+root          51  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/6]
+root          52  0.0  0.0      0     0 ?        S    19:09   0:00 [ksoftirqd/6]
+root          53  0.0  0.0      0     0 ?        I    19:09   0:01 [kworker/6:0-cgroup_destroy]
+root          54  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/6:0H-events_highpri]
+root          55  0.0  0.0      0     0 ?        S    19:09   0:00 [cpuhp/7]
+root          56  0.0  0.0      0     0 ?        S    19:09   0:00 [idle_inject/7]
+root          57  0.0  0.0      0     0 ?        S    19:09   0:00 [migration/7]
+root          58  0.0  0.0      0     0 ?        S    19:09   0:00 [ksoftirqd/7]
+root          59  0.0  0.0      0     0 ?        I    19:09   0:01 [kworker/7:0-events]
+root          60  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/7:0H-events_highpri]
+root          61  0.0  0.0      0     0 ?        S    19:09   0:00 [kdevtmpfs]
+root          62  0.0  0.0      0     0 ?        I<   19:09   0:00 [inet_frag_wq]
+root          63  0.0  0.0      0     0 ?        S    19:09   0:00 [kauditd]
+root          64  0.0  0.0      0     0 ?        S    19:09   0:00 [khungtaskd]
+root          65  0.0  0.0      0     0 ?        S    19:09   0:00 [oom_reaper]
+root          66  0.0  0.0      0     0 ?        I<   19:09   0:00 [writeback]
+root          67  0.0  0.0      0     0 ?        S    19:09   0:00 [kcompactd0]
+root          68  0.0  0.0      0     0 ?        SN   19:09   0:00 [ksmd]
+root          69  0.0  0.0      0     0 ?        SN   19:09   0:00 [khugepaged]
+root         110  0.1  0.0      0     0 ?        I    19:09   0:05 [kworker/2:1-events]
+root         117  0.0  0.0      0     0 ?        I<   19:09   0:00 [kintegrityd]
+root         118  0.0  0.0      0     0 ?        I<   19:09   0:00 [kblockd]
+root         119  0.0  0.0      0     0 ?        I<   19:09   0:00 [blkcg_punt_bio]
+root         121  0.0  0.0      0     0 ?        I<   19:09   0:00 [tpm_dev_wq]
+root         122  0.0  0.0      0     0 ?        I<   19:09   0:00 [ata_sff]
+root         123  0.0  0.0      0     0 ?        I<   19:09   0:00 [md]
+root         124  0.0  0.0      0     0 ?        I<   19:09   0:00 [edac-poller]
+root         125  0.0  0.0      0     0 ?        I<   19:09   0:00 [devfreq_wq]
+root         126  0.0  0.0      0     0 ?        S    19:09   0:00 [watchdogd]
+root         128  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/0:1H-events_highpri]
+root         130  0.0  0.0      0     0 ?        S    19:09   0:00 [kswapd0]
+root         131  0.0  0.0      0     0 ?        S    19:09   0:00 [ecryptfs-kthrea]
+root         133  0.0  0.0      0     0 ?        I<   19:09   0:00 [kthrotld]
+root         134  0.0  0.0      0     0 ?        S    19:09   0:00 [irq/122-aerdrv]
+root         135  0.0  0.0      0     0 ?        S    19:09   0:00 [irq/122-pcie-dp]
+root         136  0.0  0.0      0     0 ?        S    19:09   0:00 [irq/123-aerdrv]
+root         137  0.0  0.0      0     0 ?        S    19:09   0:00 [irq/123-pcie-dp]
+root         138  0.0  0.0      0     0 ?        I<   19:09   0:00 [acpi_thermal_pm]
+root         141  0.0  0.0      0     0 ?        I<   19:09   0:00 [vfio-irqfd-clea]
+root         143  0.0  0.0      0     0 ?        I<   19:09   0:00 [mld]
+root         144  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/1:1H-events_highpri]
+root         145  0.0  0.0      0     0 ?        I<   19:09   0:00 [ipv6_addrconf]
+root         155  0.0  0.0      0     0 ?        I<   19:09   0:00 [kstrp]
+root         159  0.0  0.0      0     0 ?        I<   19:09   0:00 [zswap-shrink]
+root         160  0.0  0.0      0     0 ?        I    19:09   0:02 [kworker/5:1-cgroup_destroy]
+root         162  0.0  0.0      0     0 ?        I<   19:09   0:01 [kworker/u17:0-i915_flip]
+root         169  0.0  0.0      0     0 ?        I<   19:09   0:00 [charger_manager]
+root         191  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/6:1H-events_highpri]
+root         226  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/2:1H-events_highpri]
+root         229  0.0  0.0      0     0 ?        I<   19:09   0:00 [cryptd]
+root         231  0.0  0.0      0     0 ?        S    19:09   0:00 [scsi_eh_0]
+root         232  0.0  0.0      0     0 ?        I<   19:09   0:00 [scsi_tmf_0]
+root         233  0.0  0.0      0     0 ?        S    19:09   0:00 [scsi_eh_1]
+root         234  0.0  0.0      0     0 ?        I<   19:09   0:00 [scsi_tmf_1]
+root         254  0.0  0.0      0     0 ?        S    19:09   0:00 [irq/51-DELL08CA]
+root         263  0.0  0.0      0     0 ?        S    19:09   0:00 [card1-crtc0]
+root         264  0.0  0.0      0     0 ?        S    19:09   0:00 [card1-crtc1]
+root         265  0.0  0.0      0     0 ?        S    19:09   0:00 [card1-crtc2]
+root         268  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/3:1H-events_highpri]
+root         269  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/5:1H-kblockd]
+root         272  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/4:1H-events_highpri]
+root         273  0.0  0.0      0     0 ?        I<   19:09   0:00 [kworker/7:1H-kblockd]
+root         337  0.0  0.0      0     0 ?        S    19:09   0:00 [jbd2/sda8-8]
+root         338  0.0  0.0      0     0 ?        I<   19:09   0:00 [ext4-rsv-conver]
+root         392  0.0  0.3  56160 25700 ?        S<s  19:09   0:00 /lib/systemd/systemd-journald
+root         410  0.0  0.0      0     0 ?        I    19:09   0:00 [kworker/7:3-cgroup_destroy]
+root         418  0.0  0.0      0     0 ?        I    19:09   0:00 [kworker/4:2-mm_percpu_wq]
+root         456  0.0  0.1  27916  8260 ?        Ss   19:10   0:02 /lib/systemd/systemd-udevd
+root         502  0.0  0.0      0     0 ?        I<   19:10   0:00 [cfg80211]
+root         505  0.0  0.0      0     0 ?        I    19:10   0:00 [kworker/3:3-cgroup_destroy]
+root         518  0.0  0.0      0     0 ?        S    19:10   0:00 [irq/129-mei_me]
+root         521  0.0  0.0      0     0 ?        I    19:10   0:00 [kworker/u16:8-events_unbound]
+root         535  0.0  0.0      0     0 ?        I    19:10   0:01 [kworker/u16:9-ext4-rsv-conversion]
+root         540  0.0  0.0      0     0 ?        S    19:10   0:00 [irq/130-iwlwifi]
+root         541  0.0  0.0      0     0 ?        S    19:10   0:00 [irq/131-iwlwifi]
+root         542  0.0  0.0      0     0 ?        S    19:10   0:00 [irq/132-iwlwifi]
+root         543  0.0  0.0      0     0 ?        S    19:10   0:00 [irq/133-iwlwifi]
+root         544  0.0  0.0      0     0 ?        S    19:10   0:00 [irq/134-iwlwifi]
+root         545  0.0  0.0      0     0 ?        S    19:10   0:00 [irq/135-iwlwifi]
+root         666  0.0  0.0      0     0 ?        I<   19:10   0:01 [kworker/u17:1-i915_flip]
+root         721  0.0  0.0      0     0 ?        I    19:10   0:00 [kworker/5:3-events]
+root         753  0.0  0.0      0     0 ?        I    19:10   0:01 [kworker/1:3-events]
+root         763  0.0  0.0      0     0 ?        S    19:10   0:00 [jbd2/sda9-8]
+root         764  0.0  0.0      0     0 ?        I<   19:10   0:00 [ext4-rsv-conver]
+systemd+     804  0.0  0.1  26984 15316 ?        Ss   19:10   0:02 /lib/systemd/systemd-resolved
+systemd+     805  0.0  0.0  89512  6828 ?        Ssl  19:10   0:00 /lib/systemd/systemd-timesyncd
+root         897  0.0  0.1 241268  8812 ?        Ssl  19:11   0:00 /usr/libexec/accounts-daemon
+root         898  0.0  0.0   2812  1112 ?        Ss   19:11   0:00 /usr/sbin/acpid
+avahi        900  0.0  0.0   7896  4372 ?        Ss   19:11   0:01 avahi-daemon: running [rioclaro.local]
+root         902  0.0  0.0  10756  4988 ?        Ss   19:11   0:00 /usr/lib/bluetooth/bluetoothd
+root         903  0.0  0.0   9500  2964 ?        Ss   19:11   0:00 /usr/sbin/cron -f -P
+message+     904  0.0  0.0  11016  6380 ?        Ss   19:11   0:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         905  0.0  0.2 484604 21176 ?        Ssl  19:11   0:01 /usr/sbin/NetworkManager --no-daemon
+root         910  0.0  0.0  82768  3772 ?        Ssl  19:11   0:00 /usr/sbin/irqbalance --foreground
+root         913  0.0  0.2  41068 21316 ?        Ss   19:11   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         915  0.0  0.1 237244 10000 ?        Ssl  19:11   0:00 /usr/libexec/polkitd --no-debug
+syslog       916  0.0  0.0 222400  6080 ?        Ssl  19:11   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         926  0.0  0.0  11768  6116 ?        Ss   19:11   0:00 /usr/sbin/smartd -n
+root         927  0.0  0.3 1763828 28824 ?       Ssl  19:11   0:02 /usr/lib/snapd/snapd
+root         928  0.0  0.1  48240  8228 ?        Ss   19:11   0:00 /lib/systemd/systemd-logind
+root         929  0.0  0.1 276060  9500 ?        Ssl  19:11   0:00 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         931  0.0  0.1 393416 14364 ?        Ssl  19:11   0:00 /usr/libexec/udisks2/udisksd
+root         932  0.0  0.0  16496  5768 ?        Ss   19:11   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        961  0.0  0.0   7440   340 ?        S    19:11   0:00 avahi-daemon: chroot helper
+root        1031  0.0  0.1  73488 14480 ?        Ss   19:11   0:00 /usr/sbin/cupsd -l
+root        1034  0.0  0.3 224848 28792 ?        Ss   19:11   0:00 php-fpm: master process (/etc/php/8.1/fpm/php-fpm.conf)
+root        1043  0.0  0.5 1791736 45148 ?       Ssl  19:11   0:02 /usr/bin/containerd
+root        1044  0.0  0.0 306772  7780 ?        SLsl 19:11   0:00 /usr/sbin/lightdm
+root        1046  0.0  0.1 244212 12240 ?        Ssl  19:11   0:00 /usr/sbin/ModemManager
+root        1069  0.0  0.1 242884  9276 ?        Ssl  19:11   0:00 /usr/libexec/upowerd
+root        1096  0.0  0.1  15424  8816 ?        Ss   19:11   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root        1102  2.0  1.7 2064160 136856 tty7   Ssl+ 19:11   0:55 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root        1107  0.0  0.0   8780  1056 tty1     Ss+  19:11   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+www-data    1164  0.0  0.1 225360 11028 ?        S    19:11   0:00 php-fpm: pool www
+www-data    1165  0.0  0.1 225360 11028 ?        S    19:11   0:00 php-fpm: pool www
+postgres    1218  0.0  0.3 220920 30032 ?        Ss   19:11   0:00 /usr/lib/postgresql/14/bin/postgres -D /var/lib/postgresql/14/main -c config_file=/etc/postgresql/14/main/postgresql.conf
+root        1224  0.0  0.3 227068 28504 ?        Ss   19:11   0:00 /usr/sbin/apache2 -k start
+www-data    1243  0.0  0.1 227596 12364 ?        S    19:11   0:00 /usr/sbin/apache2 -k start
+www-data    1244  0.0  0.1 227596 12364 ?        S    19:11   0:00 /usr/sbin/apache2 -k start
+www-data    1245  0.0  0.1 227596 12364 ?        S    19:11   0:00 /usr/sbin/apache2 -k start
+www-data    1246  0.0  0.1 227596 12364 ?        S    19:11   0:00 /usr/sbin/apache2 -k start
+www-data    1247  0.0  0.1 227596 12364 ?        S    19:11   0:00 /usr/sbin/apache2 -k start
+root        1268  0.0  0.1 173396 12784 ?        Ssl  19:11   0:00 /usr/sbin/cups-browsed
+root        1272  0.0  0.1  70836 15544 ?        Ss   19:11   0:00 /usr/sbin/nmbd --foreground --no-process-group
+kernoops    1280  0.0  0.0  13084  2584 ?        Ss   19:11   0:00 /usr/sbin/kerneloops --test
+kernoops    1288  0.0  0.0  13084   456 ?        Ss   19:11   0:00 /usr/sbin/kerneloops
+root        1293  0.0  0.0      0     0 ?        I<   19:11   0:00 [iprt-VBoxWQueue]
+root        1296  0.0  0.0      0     0 ?        S    19:11   0:00 [iprt-VBoxTscThr]
+postgres    1311  0.0  0.1 221028  9604 ?        Ss   19:11   0:00 postgres: 14/main: checkpointer 
+postgres    1312  0.0  0.0 220920  6996 ?        Ss   19:11   0:00 postgres: 14/main: background writer 
+postgres    1313  0.0  0.1 220920 11636 ?        Ss   19:11   0:00 postgres: 14/main: walwriter 
+postgres    1314  0.0  0.1 221484  9656 ?        Ss   19:11   0:00 postgres: 14/main: autovacuum launcher 
+postgres    1315  0.0  0.0  75512  6432 ?        Ss   19:11   0:00 postgres: 14/main: stats collector 
+postgres    1316  0.0  0.0 221348  7808 ?        Ss   19:11   0:00 postgres: 14/main: logical replication launcher 
+mysql       1327  1.3  4.9 2373384 396016 ?      Ssl  19:11   0:35 /usr/sbin/mysqld
+root        1364  0.0  0.8 1742984 69128 ?       Ssl  19:12   0:01 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+rtkit       1524  0.0  0.0 154000  1568 ?        SNsl 19:12   0:00 /usr/libexec/rtkit-daemon
+root        1633  0.0  0.3  86748 24440 ?        Ss   19:12   0:00 /usr/sbin/smbd --foreground --no-process-group
+root        1772  0.0  0.1  84596  9864 ?        S    19:12   0:00 /usr/sbin/smbd --foreground --no-process-group
+root        1773  0.0  0.0  84604  8000 ?        S    19:12   0:00 /usr/sbin/smbd --foreground --no-process-group
+root        1786  0.0  0.2  86524 20716 ?        S    19:12   0:00 /usr/lib/x86_64-linux-gnu/samba/samba-bgqd --ready-signal-fd=46 --parent-watch-fd=12 --debuglevel=1 -F
+root        1847  0.0  0.1 164892 10276 ?        Sl   19:12   0:00 lightdm --session-child 12 19
+root        1869  0.0  0.0      0     0 ?        S<   19:12   0:00 [krfcommd]
+orlando     1879  0.0  0.1  17580 10108 ?        Ss   19:13   0:00 /lib/systemd/systemd --user
+orlando     1880  0.0  0.0 171748  4472 ?        S    19:13   0:00 (sd-pam)
+orlando     1887  0.0  0.0  39856  6668 ?        S<sl 19:13   0:00 /usr/bin/pipewire
+orlando     1888  0.0  0.0  23620  6360 ?        Ssl  19:13   0:00 /usr/bin/pipewire-media-session
+orlando     1889  0.0  0.4 1427316 32468 ?       S<sl 19:13   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+orlando     1890  0.0  0.0   9428  5640 ?        Ss   19:13   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+orlando     1893  0.0  0.0 241396  7980 ?        Sl   19:13   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+orlando     1897  0.0  0.3 451520 27828 ?        Ssl  19:13   0:00 cinnamon-session --session cinnamon
+orlando     2122  0.0  0.1 240988  8576 ?        Ssl  19:13   0:00 /usr/libexec/gvfsd
+orlando     2127  0.0  0.0 380888  6284 ?        Sl   19:13   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+orlando     2134  0.0  0.0 309888  7624 ?        Ssl  19:13   0:00 /usr/libexec/at-spi-bus-launcher
+orlando     2141  0.0  0.0   8692  4596 ?        S    19:13   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+orlando     2144  0.0  0.1 162748  8112 ?        Sl   19:13   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+orlando     2161  0.0  0.3 525124 26996 ?        Sl   19:13   0:00 csd-color
+orlando     2162  0.0  0.3 302168 25016 ?        Sl   19:13   0:00 csd-a11y-settings
+orlando     2163  0.0  0.3 228000 24596 ?        Sl   19:13   0:00 csd-clipboard
+orlando     2166  0.0  0.3 310488 28996 ?        Sl   19:13   0:00 csd-print-notifications
+orlando     2167  0.0  0.6 380464 50660 ?        Sl   19:13   0:00 csd-background
+orlando     2168  0.0  0.3 302340 25944 ?        Sl   19:13   0:00 csd-keyboard
+orlando     2180  0.0  0.3 715776 27976 ?        Sl   19:13   0:00 csd-media-keys
+orlando     2181  0.0  0.3 302408 25652 ?        Sl   19:13   0:00 csd-wacom
+orlando     2184  0.0  0.3 303664 27544 ?        Sl   19:13   0:00 csd-xsettings
+orlando     2185  0.0  0.3 301764 24944 ?        Sl   19:13   0:00 csd-screensaver-proxy
+orlando     2188  0.0  0.5 538876 41976 ?        Sl   19:13   0:00 csd-power
+orlando     2204  0.0  0.3 302176 25324 ?        Sl   19:13   0:00 csd-housekeeping
+root        2205  0.0  0.0      0     0 ?        I    19:13   0:01 [kworker/3:4-mm_percpu_wq]
+orlando     2207  0.0  0.3 376176 25964 ?        Sl   19:13   0:00 csd-automount
+orlando     2219  0.0  0.0 157420  6364 ?        Ssl  19:13   0:00 /usr/libexec/dconf-service
+orlando     2227  0.0  0.1 342688 13904 ?        Sl   19:13   0:00 /usr/libexec/csd-printer
+colord      2232  0.0  0.1 247376 15192 ?        Ssl  19:13   0:00 /usr/libexec/colord
+orlando     2250  0.0  0.1 316816 10204 ?        Ssl  19:13   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+orlando     2255  0.0  0.1 315552  8380 ?        Ssl  19:13   0:00 /usr/libexec/gvfs-afc-volume-monitor
+orlando     2260  0.0  0.0 236976  6540 ?        Ssl  19:13   0:00 /usr/libexec/gvfs-goa-volume-monitor
+orlando     2264  0.0  0.4 565276 39976 ?        Sl   19:13   0:00 /usr/libexec/goa-daemon
+orlando     2266  0.0  0.5 465996 41372 ?        Sl   19:13   0:00 cinnamon-launcher
+orlando     2275  3.7  2.7 5250072 220284 ?      Sl   19:13   1:37 cinnamon --replace
+orlando     2288  0.0  0.1 339004 15300 ?        Sl   19:13   0:00 /usr/libexec/goa-identity-service
+orlando     2293  0.0  0.0 236772  6692 ?        Ssl  19:13   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+orlando     2298  0.0  0.0 237728  7064 ?        Ssl  19:13   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+orlando     2332  0.0  0.4 463608 39204 ?        Sl   19:13   0:00 /usr/libexec/xapps/sn-watcher/xapp-sn-watcher
+orlando     2345  0.0  0.7 350072 60704 ?        Sl   19:13   0:01 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+orlando     2364  0.0  0.0 237424  5580 ?        Sl   19:13   0:00 /usr/libexec/geoclue-2.0/demos/agent
+orlando     2368  0.0  0.9 1059708 78472 ?       Sl   19:13   0:02 nemo-desktop
+orlando     2375  0.0  0.8 729144 66040 ?        Sl   19:13   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+orlando     2376  0.0  0.5 548804 47352 ?        Sl   19:13   0:00 nm-applet
+orlando     2377  0.0  0.6 482748 53528 ?        Sl   19:13   0:00 /usr/bin/python3 /usr/bin/blueman-applet
+orlando     2379  0.0  0.3 227804 24856 ?        Sl   19:13   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+orlando     2384  0.0  0.4 315304 36308 ?        Sl   19:13   0:00 cinnamon-killer-daemon
+orlando     2419  0.0  0.3 393220 26320 ?        Ssl  19:13   0:00 /usr/libexec/evolution-source-registry
+orlando     2435  0.1  0.4 318092 39344 ?        Sl   19:13   0:04 /usr/bin/python3 /usr/bin/blueman-tray
+orlando     2437  0.0  0.0  46948  7176 ?        Ss   19:13   0:00 /usr/lib/bluetooth/obexd
+orlando     2459  0.0  0.3 1316572 31328 ?       Ssl  19:13   0:00 /usr/libexec/evolution-calendar-factory
+orlando     2484  0.0  0.3 681412 29216 ?        Ssl  19:14   0:00 /usr/libexec/evolution-addressbook-factory
+orlando     2555  0.0  0.1 315768  9132 ?        Sl   19:14   0:00 /usr/libexec/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
+lp          2761  0.0  0.0  16284  5404 ?        S    19:14   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp          2762  0.0  0.0  16284  5212 ?        S    19:14   0:00 /usr/lib/cups/notifier/dbus dbus://
+orlando     2785  0.0  0.1 477144 14276 ?        Ssl  19:14   0:00 /usr/libexec/xdg-desktop-portal
+orlando     2795  0.0  0.0 463456  7052 ?        Ssl  19:14   0:00 /usr/libexec/xdg-document-portal
+orlando     2798  0.0  0.0 236424  5316 ?        Ssl  19:14   0:00 /usr/libexec/xdg-permission-store
+root        2804  0.0  0.0   2792  1004 ?        Ss   19:14   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+orlando     2808  0.1  0.6 619348 50684 ?        Ssl  19:14   0:03 /usr/libexec/xdg-desktop-portal-gtk
+orlando     2825  0.0  0.0   2888  1060 ?        S    19:14   0:00 sh -c /usr/lib/x86_64-linux-gnu/libproxy/0.4.17/pxgsettings org.gnome.system.proxy org.gnome.system.proxy.http org.gnome.system.proxy.https org.gnome.system.proxy.ftp org.gnome.system.proxy.socks
+orlando     2826  0.0  0.0 233308  6644 ?        Sl   19:14   0:00 /usr/lib/x86_64-linux-gnu/libproxy/0.4.17/pxgsettings org.gnome.system.proxy org.gnome.system.proxy.http org.gnome.system.proxy.https org.gnome.system.proxy.ftp org.gnome.system.proxy.socks
+orlando     2893  0.0  0.2 182904 23240 ?        Ssl  19:14   0:00 /usr/libexec/gvfsd-metadata
+orlando     2939  0.0  0.0   9976  3444 ?        S    19:14   0:00 /bin/bash /usr/bin/brave-browser-stable
+orlando     2944  0.0  0.0   8516  1056 ?        S    19:14   0:00 cat
+orlando     2945  0.0  0.0   8516  1000 ?        S    19:14   0:00 cat
+orlando     2946  1.6  4.6 34336036 370300 ?     SLl  19:14   0:42 /opt/brave.com/brave/brave
+orlando     2948  0.0  0.0 33577988 3632 ?       Sl   19:14   0:00 /opt/brave.com/brave/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/orlando/.config/BraveSoftware/Brave-Browser/Crash Reports --metrics-dir=/home/orlando/.config/BraveSoftware/Brave-Browser --url=https://cr.brave.com --annotation=lsb-release=Linux Mint 21 --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=128.1.69.168 --initial-client-fd=5 --shared-client-connection
+orlando     2950  0.0  0.0 33568752 3380 ?       Sl   19:14   0:00 /opt/brave.com/brave/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/orlando/.config/BraveSoftware/Brave-Browser/Crash Reports --url=https://cr.brave.com --annotation=lsb-release=Linux Mint 21 --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=128.1.69.168 --initial-client-fd=4 --shared-client-connection
+orlando     2956  0.0  0.8 33968580 68456 ?      S    19:14   0:00 /opt/brave.com/brave/brave --type=zygote --no-zygote-sandbox --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --change-stack-guard-on-fork=enable
+orlando     2957  0.0  0.8 33968568 68252 ?      S    19:14   0:00 /opt/brave.com/brave/brave --type=zygote --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --change-stack-guard-on-fork=enable
+orlando     2959  0.0  0.2 33968592 17856 ?      S    19:14   0:00 /opt/brave.com/brave/brave --type=zygote --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --change-stack-guard-on-fork=enable
+orlando     2985  0.9  2.3 34416548 187556 ?     Sl   19:15   0:22 /opt/brave.com/brave/brave --type=gpu-process --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3047  0.0  1.3 1212186296 105504 ?   Sl   19:15   0:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --extension-process --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=352360478 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3065  0.2  0.5 463040 41120 ?        Ssl  19:15   0:06 /usr/libexec/gnome-terminal-server
+orlando     3097  0.0  0.0  12788  6864 pts/0    Ss   19:15   0:00 bash
+orlando     3158  0.4  1.6 33999752 128548 ?     Sl   19:15   0:11 /opt/brave.com/brave/brave --type=utility --utility-sub-type=network.mojom.NetworkService --lang=pt-BR --service-sandbox-type=none --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3159  0.0  0.7 34035840 56516 ?      Sl   19:15   0:00 /opt/brave.com/brave/brave --type=utility --utility-sub-type=storage.mojom.StorageService --lang=pt-BR --service-sandbox-type=utility --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3273  0.0  1.6 1212229012 135160 ?   Sl   19:15   0:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=21 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=381576518 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3404  0.6  3.9 1214162280 315388 ?   Sl   19:16   0:16 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=390974921 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3425  0.0  1.3 1212227532 110880 ?   Sl   19:16   0:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=22 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=397592351 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3438  0.0  1.0 34221260 84140 ?      Sl   19:16   0:00 /opt/brave.com/brave/brave --type=utility --utility-sub-type=audio.mojom.AudioService --lang=pt-BR --service-sandbox-type=none --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3451  0.0  1.4 1212227536 120036 ?   Sl   19:16   0:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=25 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=399206385 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3460  0.2  2.2 1214163132 183952 ?   Sl   19:16   0:06 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=26 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=402308556 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3499  0.4  1.1 1636524 89688 ?       Sl   19:16   0:10 nemo
+root        3564  0.0  0.0      0     0 ?        I    19:17   0:00 [kworker/2:2-events]
+orlando     3590  1.0  2.8 1212261860 225880 ?   Sl   19:17   0:24 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=29 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=487512498 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3654  0.0  0.1 389484  9316 ?        Sl   19:18   0:00 /usr/libexec/gvfsd-network --spawner :1.9 /org/gtk/gvfs/exec_spaw/1
+orlando     3669  0.0  0.1 317168  9248 ?        Sl   19:18   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.9 /org/gtk/gvfs/exec_spaw/3
+orlando     3682  0.1  1.5 90504428 121176 ?     Sl   19:18   0:02 xreader /home/orlando/FATEC_2024_2SEM_ES/plano_ensino.pdf
+orlando     3688  0.0  0.0 156788  4400 ?        Sl   19:18   0:00 /usr/libexec/xreaderd
+orlando     3701  0.0  0.5 106888192 44368 ?     SLl  19:18   0:00 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitNetworkProcess 7 17
+orlando     3917  0.0  0.8 1212186292 68248 ?    Sl   19:27   0:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=2948 --enable-crash-reporter=f650b589-0eb4-4a8c-9a31-a27f8583a6b0, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=15402316011317994695 --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=33 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=1087309205 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17065521882238525111,16047598941702960784,262144 --variations-seed-version=main@22762a68b3ebb3cc3e3b70b434329aaa71e1dc21
+orlando     3942  0.0  0.6 547064 48832 ?        Sl   19:27   0:00 xviewer /tmp/tutorial_git/fluxo.png
+root        3956  0.0  0.0      0     0 ?        I    19:28   0:00 [kworker/4:0-mm_percpu_wq]
+root        4182  0.0  0.0      0     0 ?        I    19:39   0:00 [kworker/1:1]
+orlando     4209  1.1  2.2 1186346964 176416 ?   Ssl  19:41   0:10 /usr/share/code/code .
+orlando     4212  0.0  0.5 33784092 46124 ?      S    19:41   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+orlando     4213  0.0  0.5 33784080 46304 ?      S    19:41   0:00 /usr/share/code/code --type=zygote
+orlando     4215  0.0  0.1 33784108 11928 ?      S    19:41   0:00 /usr/share/code/code --type=zygote
+orlando     4229  0.0  0.1 33601584 11092 ?      Sl   19:41   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/orlando/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=14a28925-0a6e-407c-93b4-8603f4a0edc2&iid=14a28925-0a6e-407c-93b4-8603f4a0edc2&sid=14a28925-0a6e-407c-93b4-8603f4a0edc2 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.91.1 --annotation=lsb-release=Linux Mint 21 --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=29.4.0 --initial-client-fd=46 --shared-client-connection
+orlando     4243  1.2  1.7 34209460 139936 ?     Sl   19:41   0:11 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=4229 --enable-crash-reporter=722e6f61-44e0-4a92-b854-159bd517c008,no_channel --user-data-dir=/home/orlando/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,2059089834171154915,13907986311346119408,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+orlando     4251  0.1  0.7 33858868 62596 ?      Sl   19:41   0:01 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=pt-BR --service-sandbox-type=none --crashpad-handler-pid=4229 --enable-crash-reporter=722e6f61-44e0-4a92-b854-159bd517c008,no_channel --user-data-dir=/home/orlando/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,2059089834171154915,13907986311346119408,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+root        4259  0.0  0.0      0     0 ?        I    19:41   0:00 [kworker/6:2-cgroup_destroy]
+orlando     4299  3.3  2.6 1188332592 208432 ?   Sl   19:41   0:30 /usr/share/code/code --type=renderer --crashpad-handler-pid=4229 --enable-crash-reporter=722e6f61-44e0-4a92-b854-159bd517c008,no_channel --user-data-dir=/home/orlando/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration, --lang=pt-BR --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1727906971102227 --launch-time-ticks=1916485764 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,2059089834171154915,13907986311346119408,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:07152d81-3900-4cb0-a687-8f8372170a55
+root        4308  0.0  0.0      0     0 ?        I    19:41   0:00 [kworker/0:0-events]
+orlando     4318  0.6  1.3 1186096772 107676 ?   Sl   19:41   0:05 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=pt-BR --service-sandbox-type=none --crashpad-handler-pid=4229 --enable-crash-reporter=722e6f61-44e0-4a92-b854-159bd517c008,no_channel --user-data-dir=/home/orlando/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,2059089834171154915,13907986311346119408,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+orlando     4319  0.1  1.0 1186113712 86984 ?    Sl   19:41   0:01 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=pt-BR --service-sandbox-type=none --crashpad-handler-pid=4229 --enable-crash-reporter=722e6f61-44e0-4a92-b854-159bd517c008,no_channel --user-data-dir=/home/orlando/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,2059089834171154915,13907986311346119408,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+orlando     4341  1.0  2.0 1186098956 167856 ?   Sl   19:41   0:09 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=pt-BR --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=4229 --enable-crash-reporter=722e6f61-44e0-4a92-b854-159bd517c008,no_channel --user-data-dir=/home/orlando/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,2059089834171154915,13907986311346119408,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+orlando     4404  0.0  1.0 1186026956 82932 ?    Sl   19:41   0:00 /usr/share/code/code /home/orlando/.vscode/extensions/mtxr.sqltools-0.28.3/dist/languageserver.js --node-ipc --clientProcessId=4341
+orlando     4511  0.2  0.0   4672  3608 ?        S    19:41   0:01 /home/orlando/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python-env-tools/bin/pet server
+orlando     4535  0.4  1.1 1186105584 90244 ?    Sl   19:41   0:03 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=pt-BR --service-sandbox-type=none --crashpad-handler-pid=4229 --enable-crash-reporter=722e6f61-44e0-4a92-b854-159bd517c008,no_channel --user-data-dir=/home/orlando/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,2059089834171154915,13907986311346119408,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+orlando     4638  0.0  0.0  11632  5820 pts/1    Ss+  19:42   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+orlando     4864  0.2  1.6 1188194688 131552 ?   Sl   19:42   0:01 /usr/share/code/code /home/orlando/.vscode/extensions/ms-python.vscode-pylance-2024.9.2/dist/server.bundle.js --cancellationReceive=file:1ebb97ff0bf8c402a33248f5604483f9c3016d8ebb --node-ipc --clientProcessId=4341
+root        7620  0.0  0.0      0     0 ?        I    19:50   0:00 [kworker/u16:1-ext4-rsv-conversion]
+root        8525  0.0  0.0      0     0 ?        I<   19:52   0:00 [kworker/u17:2]
+root        9295  0.1  0.0      0     0 ?        I    19:55   0:00 [kworker/2:0-events]
+root        9366  0.0  0.0      0     0 ?        I    19:55   0:00 [kworker/6:1-mm_percpu_wq]
+orlando     9904  0.0  0.0  12760  3460 pts/0    R+   19:56   0:00 ps aux
